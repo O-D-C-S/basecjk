@@ -1,3 +1,7 @@
+### 未来有可能成为老司机发车方案的baseCJK算法
+
+----
+
 # baseCJK algorithm
 a bin-to-text algorithm writen in C++ (with asm), which can map all bytes to CJK characters, working like BASE64
 
